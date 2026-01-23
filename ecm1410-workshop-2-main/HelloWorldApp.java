@@ -3,7 +3,7 @@ public class HelloWorldApp {
         System.out.print("Hello World! My name is ");
         System.out.print(args[0]);
         System.out.println(".");
-        System.out.print("you are age ");
+        System.out.print("you are aged ");
         System.out.print(args[1]);
         System.out.println(".");
     }
