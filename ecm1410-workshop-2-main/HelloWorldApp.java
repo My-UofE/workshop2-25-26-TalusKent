@@ -1,6 +1,6 @@
 public class HelloWorldApp {
     public static void main(String[] args) {
-        System.out.print("Hello World! My name is name ");
+        System.out.print("Hello World! My name is not");
         System.out.print(args[0]);
         System.out.println(".");
         System.out.print("you are aged ");
